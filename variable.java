@@ -12,5 +12,9 @@ float floa=5.99f;
 char c= 'D';
 boolean valor=true;
 String dato="Cierto"
+System.out.println(valor);
+System.out.println(floa);
+System.out.println(num);
+System.out.println(c);
 }
 }
